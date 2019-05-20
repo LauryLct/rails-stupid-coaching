@@ -15,6 +15,5 @@ class QuestionsController < ApplicationController
   end
 
   def home
-
   end
 end
